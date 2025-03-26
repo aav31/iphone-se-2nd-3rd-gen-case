@@ -1,11 +1,7 @@
 # iphone-se-2nd-3rd-gen-case 📱
 Minimalist phone case design for iPhone SE (2nd &amp; 3rd Gen). The design is optimized for 3D printing in PLA filament. For anyone else clinging to this vintage device, I've got you covered - literally.
 
-## Preview 👀
-TODO:
-- [Interactive Preview](link_to_stl_file_in_repo)
-- [Fusion 360 Interactive Preview](INSERT_FUSION_360_LINK_HERE)  
-- Add png
+[See Fusion 360 interactive preview here.](https://a360.co/420a5SC)
 
 ## Files Included 📁
 - **[case.stl](case.stl)**: 3D-printable file (preview available on GitHub).
