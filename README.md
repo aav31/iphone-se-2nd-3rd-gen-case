@@ -8,13 +8,13 @@ TODO:
 - Add png
 
 ## Files Included 📁
-- **case.f3d:** Original Fusion 360 file, complete with parametric design history.
-- **case.stl:** 3D-printable file (preview available on GitHub).
-- **case.step:** Universal CAD file for cross-platform editing.
+- **[case.stl](case.stl)**: 3D-printable file (preview available on GitHub).
+- **[case.f3z](case.f3z)**: Original Fusion 360 file, complete with parametric design history.
+- **[case.step](case.step)**: Universal CAD file for cross-platform editing.
 
 ## Usage Instructions ⚙️
-- **Fusion 360 Users:** Download `case.f3d` for full parametric editing.
-- **3D Printing Enthusiasts:** Download `case.stl`, preview it on GitHub, and use slicer software to prepare for printing.
+- **3D Printing Enthusiasts:** Download `case.stl` and use slicer software to prepare for printing.
+- **Fusion 360 Users:** Download `case.f3z` for full parametric editing.
 - **CAD Professionals:** Download `case.step` to edit the design in your preferred CAD software.
 
 ## License 📄
